@@ -1,0 +1,46 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (FaustSynth.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  MainComponent.cpp
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\faust\mydsp.h(12): warning C4100: 'x': unreferenced formal parameter
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\faust\mydsp.h(16): warning C4100: 'x': unreferenced formal parameter
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\faust\mydsp.h(401): warning C4100: 'step': unreferenced formal parameter
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\faust\mydsp.h(401): warning C4100: 'fmax': unreferenced formal parameter
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\faust\mydsp.h(401): warning C4100: 'fmin': unreferenced formal parameter
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\faust\mydsp.h(401): warning C4100: 'init': unreferenced formal parameter
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\faust\mydsp.h(406): warning C4100: 'step': unreferenced formal parameter
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\faust\mydsp.h(406): warning C4100: 'fmax': unreferenced formal parameter
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\faust\mydsp.h(406): warning C4100: 'fmin': unreferenced formal parameter
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\faust\mydsp.h(406): warning C4100: 'init': unreferenced formal parameter
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\faust\mydsp.h(411): warning C4100: 'step': unreferenced formal parameter
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\faust\mydsp.h(411): warning C4100: 'fmax': unreferenced formal parameter
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\faust\mydsp.h(411): warning C4100: 'fmin': unreferenced formal parameter
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\faust\mydsp.h(411): warning C4100: 'init': unreferenced formal parameter
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\faust\mydsp.h(418): warning C4100: 'fmax': unreferenced formal parameter
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\faust\mydsp.h(418): warning C4100: 'fmin': unreferenced formal parameter
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\faust\mydsp.h(423): warning C4100: 'fmax': unreferenced formal parameter
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\faust\mydsp.h(423): warning C4100: 'fmin': unreferenced formal parameter
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\faust\mydsp.h(430): warning C4100: 'val': unreferenced formal parameter
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\faust\mydsp.h(430): warning C4100: 'key': unreferenced formal parameter
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\faust\mydsp.h(430): warning C4100: 'zone': unreferenced formal parameter
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\faust\mydsp.h(609): warning C4100: 'date_usec': unreferenced formal parameter
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\faust\mydsp.h(732): warning C4065: switch statement contains 'default' but no 'case' labels
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\faust\mydsp.h(753): warning C4100: 'samplingFreq': unreferenced formal parameter
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\faust\mydsp.h(832): warning C4100: 'inputs': unreferenced formal parameter
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\faustreverb.h(811): warning C4100: 'samplingFreq': unreferenced formal parameter
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\maincomponent.cpp(108): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\maincomponent.cpp(112): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\maincomponent.cpp(116): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\maincomponent.cpp(119): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\maincomponent.cpp(122): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\maincomponent.cpp(125): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\maincomponent.cpp(128): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\maincomponent.cpp(131): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\maincomponent.cpp(141): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\maincomponent.cpp(147): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\maincomponent.cpp(153): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\maincomponent.cpp(159): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\maincomponent.cpp(165): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\maincomponent.cpp(171): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\maincomponent.cpp(230): warning C4100: 'slider': unreferenced formal parameter
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\guitarchords\source\maincomponent.cpp(273): warning C4100: 'button': unreferenced formal parameter
+  GuitarChords.vcxproj -> C:\Users\Mark Rau\Documents\Stanford Courses\Fall 2016\Music 256a\HW2\GuitarChords\Builds\VisualStudio2015\Debug\FaustSynth.exe
+  GuitarChords.vcxproj -> Debug\\FaustSynth.pdb (Full PDB)

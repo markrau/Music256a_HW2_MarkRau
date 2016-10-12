@@ -1,0 +1,105 @@
+﻿  karplus.cpp
+  MainComponent.cpp
+  Main.cpp
+  BinaryData.cpp
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(23): error C2504: 'dsp': base class undefined
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(42): error C2061: syntax error: identifier 'Meta'
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(152): error C2061: syntax error: identifier 'UI'
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(43): error C2065: 'm': undeclared identifier
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(43): error C2227: left of '->declare' must point to class/struct/union/generic type
+  c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(43): note: type is 'unknown-type'
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(44): error C2065: 'm': undeclared identifier
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(44): error C2227: left of '->declare' must point to class/struct/union/generic type
+  c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(44): note: type is 'unknown-type'
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(45): error C2065: 'm': undeclared identifier
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(45): error C2227: left of '->declare' must point to class/struct/union/generic type
+  c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(45): note: type is 'unknown-type'
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(46): error C2065: 'm': undeclared identifier
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(46): error C2227: left of '->declare' must point to class/struct/union/generic type
+  c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(46): note: type is 'unknown-type'
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(47): error C2065: 'm': undeclared identifier
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(47): error C2227: left of '->declare' must point to class/struct/union/generic type
+  c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(47): note: type is 'unknown-type'
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(48): error C2065: 'm': undeclared identifier
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(48): error C2227: left of '->declare' must point to class/struct/union/generic type
+  c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(48): note: type is 'unknown-type'
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(49): error C2065: 'm': undeclared identifier
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(49): error C2227: left of '->declare' must point to class/struct/union/generic type
+  c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(49): note: type is 'unknown-type'
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(50): error C2065: 'm': undeclared identifier
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(50): error C2227: left of '->declare' must point to class/struct/union/generic type
+  c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(50): note: type is 'unknown-type'
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(51): error C2065: 'm': undeclared identifier
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(51): error C2227: left of '->declare' must point to class/struct/union/generic type
+  c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(51): note: type is 'unknown-type'
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(70): warning C4065: switch statement contains 'default' but no 'case' labels
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(153): error C2065: 'ui_interface': undeclared identifier
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(153): error C2227: left of '->openVerticalBox' must point to class/struct/union/generic type
+  c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(153): note: type is 'unknown-type'
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(154): error C2065: 'ui_interface': undeclared identifier
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(154): error C2227: left of '->openVerticalBox' must point to class/struct/union/generic type
+  c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(154): note: type is 'unknown-type'
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(155): error C2065: 'ui_interface': undeclared identifier
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(155): error C2227: left of '->declare' must point to class/struct/union/generic type
+  c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(155): note: type is 'unknown-type'
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(156): error C2065: 'ui_interface': undeclared identifier
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(156): error C2227: left of '->addHorizontalSlider' must point to class/struct/union/generic type
+  c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(156): note: type is 'unknown-type'
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(157): error C2065: 'ui_interface': undeclared identifier
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(157): error C2227: left of '->addButton' must point to class/struct/union/generic type
+  c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(157): note: type is 'unknown-type'
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(158): error C2065: 'ui_interface': undeclared identifier
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(158): error C2227: left of '->closeBox' must point to class/struct/union/generic type
+  c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(158): note: type is 'unknown-type'
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(159): error C2065: 'ui_interface': undeclared identifier
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(159): error C2227: left of '->addHorizontalSlider' must point to class/struct/union/generic type
+  c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(159): note: type is 'unknown-type'
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(160): error C2065: 'ui_interface': undeclared identifier
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(160): error C2227: left of '->openVerticalBox' must point to class/struct/union/generic type
+  c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(160): note: type is 'unknown-type'
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(161): error C2065: 'ui_interface': undeclared identifier
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(161): error C2227: left of '->addHorizontalSlider' must point to class/struct/union/generic type
+  c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(161): note: type is 'unknown-type'
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(162): error C2065: 'ui_interface': undeclared identifier
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(162): error C2227: left of '->declare' must point to class/struct/union/generic type
+  c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(162): note: type is 'unknown-type'
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(163): error C2065: 'ui_interface': undeclared identifier
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(163): error C2227: left of '->declare' must point to class/struct/union/generic type
+  c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(163): note: type is 'unknown-type'
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(164): error C2065: 'ui_interface': undeclared identifier
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(164): error C2227: left of '->addHorizontalSlider' must point to class/struct/union/generic type
+  c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(164): note: type is 'unknown-type'
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(165): error C2065: 'ui_interface': undeclared identifier
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(165): error C2227: left of '->closeBox' must point to class/struct/union/generic type
+  c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(165): note: type is 'unknown-type'
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(166): error C2065: 'ui_interface': undeclared identifier
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(166): error C2227: left of '->closeBox' must point to class/struct/union/generic type
+  c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\karplus.cpp(166): note: type is 'unknown-type'
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\main.cpp(23): warning C4100: 'commandLine': unreferenced formal parameter
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\main.cpp(45): warning C4100: 'commandLine': unreferenced formal parameter
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\saw.h(393): warning C4100: 'step': unreferenced formal parameter (compiling source file ..\..\Source\MainComponent.cpp)
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\saw.h(393): warning C4100: 'fmax': unreferenced formal parameter (compiling source file ..\..\Source\MainComponent.cpp)
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\saw.h(393): warning C4100: 'fmin': unreferenced formal parameter (compiling source file ..\..\Source\MainComponent.cpp)
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\saw.h(393): warning C4100: 'init': unreferenced formal parameter (compiling source file ..\..\Source\MainComponent.cpp)
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\saw.h(398): warning C4100: 'step': unreferenced formal parameter (compiling source file ..\..\Source\MainComponent.cpp)
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\saw.h(398): warning C4100: 'fmax': unreferenced formal parameter (compiling source file ..\..\Source\MainComponent.cpp)
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\saw.h(398): warning C4100: 'fmin': unreferenced formal parameter (compiling source file ..\..\Source\MainComponent.cpp)
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\saw.h(398): warning C4100: 'init': unreferenced formal parameter (compiling source file ..\..\Source\MainComponent.cpp)
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\saw.h(403): warning C4100: 'step': unreferenced formal parameter (compiling source file ..\..\Source\MainComponent.cpp)
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\saw.h(403): warning C4100: 'fmax': unreferenced formal parameter (compiling source file ..\..\Source\MainComponent.cpp)
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\saw.h(403): warning C4100: 'fmin': unreferenced formal parameter (compiling source file ..\..\Source\MainComponent.cpp)
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\saw.h(403): warning C4100: 'init': unreferenced formal parameter (compiling source file ..\..\Source\MainComponent.cpp)
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\saw.h(410): warning C4100: 'fmax': unreferenced formal parameter (compiling source file ..\..\Source\MainComponent.cpp)
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\saw.h(410): warning C4100: 'fmin': unreferenced formal parameter (compiling source file ..\..\Source\MainComponent.cpp)
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\saw.h(415): warning C4100: 'fmax': unreferenced formal parameter (compiling source file ..\..\Source\MainComponent.cpp)
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\saw.h(415): warning C4100: 'fmin': unreferenced formal parameter (compiling source file ..\..\Source\MainComponent.cpp)
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\saw.h(422): warning C4100: 'val': unreferenced formal parameter (compiling source file ..\..\Source\MainComponent.cpp)
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\saw.h(422): warning C4100: 'key': unreferenced formal parameter (compiling source file ..\..\Source\MainComponent.cpp)
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\saw.h(422): warning C4100: 'zone': unreferenced formal parameter (compiling source file ..\..\Source\MainComponent.cpp)
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\saw.h(603): warning C4100: 'date_usec': unreferenced formal parameter (compiling source file ..\..\Source\MainComponent.cpp)
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\saw.h(729): warning C4065: switch statement contains 'default' but no 'case' labels (compiling source file ..\..\Source\MainComponent.cpp)
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\saw.h(750): warning C4100: 'samplingFreq': unreferenced formal parameter (compiling source file ..\..\Source\MainComponent.cpp)
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\faust\saw.h(815): warning C4100: 'inputs': unreferenced formal parameter (compiling source file ..\..\Source\MainComponent.cpp)
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\maincomponent.cpp(74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\maincomponent.cpp(123): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mark rau\documents\stanford courses\fall 2016\music 256a\hw2\faustsynth\faustsynth\source\maincomponent.cpp(127): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data

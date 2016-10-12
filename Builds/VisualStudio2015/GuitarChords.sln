@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2015
+Project("{081A6218-12F3-8903-2853-96BF516136E5}") = "GuitarChords", "GuitarChords.vcxproj", "{D0787BD9-DA60-FC73-E5AE-635B889DCE77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0787BD9-DA60-FC73-E5AE-635B889DCE77}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D0787BD9-DA60-FC73-E5AE-635B889DCE77}.Debug|Win32.Build.0 = Debug|Win32
+		{D0787BD9-DA60-FC73-E5AE-635B889DCE77}.Release|Win32.ActiveCfg = Release|Win32
+		{D0787BD9-DA60-FC73-E5AE-635B889DCE77}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
